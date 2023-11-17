@@ -7,7 +7,6 @@
 <h2>⚙️Front End Developer, Cybersecurity Associate, Graphic Designer</h2>
 
 
-<br>
 <h5>WHO AM I ?</h5>
 <p>
   I'm from the Philippines.<br>
@@ -17,15 +16,14 @@
 </p>
 
 
-
-
-<br>
 <p align="left">
   <h5>WHAT I KNOW ?</h5>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,python,git,photoshop,illustrator"/>
-    
   </a>
 </p>
+
+<hr><br>
+<h2>PROJECTS I WORKED ON</h2>
 
 
