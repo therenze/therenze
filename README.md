@@ -1,8 +1,31 @@
-- 👋 Hi, I’m @therenze
-- 👀 I’m interested in Java Programming, Frontend Development, Cyber Defense
-- 🌱 I’m currently learning Java, Python Programming, and Cyber Security.
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&random=false&width=805&height=65&lines=I'm+THERENZE+STEPHEN+AMANTE" alt="Typing SVG" />
+</a>
 
-<!---
-therenze/therenze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<hr>
+<h5>WHAT I DO ?</h5>
+<h2>⚙️Front End Developer, Cybersecurity Associate, Graphic Designer</h2>
+
+
+<br>
+<h5>WHO AM I ?</h5>
+<p>
+  I'm from the Philippines.<br>
+  Dedicated, Self-Motivated, Team Player. <br> 
+  Eager and willing to learn everyday.<br>
+  Keen eye for detail specially in doing UI.
+</p>
+
+
+
+
+<br>
+<p align="left">
+  <h5>WHAT I KNOW ?</h5>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,python,git,photoshop,illustrator"/>
+    
+  </a>
+</p>
+
+
