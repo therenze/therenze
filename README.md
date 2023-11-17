@@ -3,7 +3,7 @@
 </a>
 
 <hr>
-<h5>WHAT I DO ?</h5>
+<h5>WHAT I AM ?</h5>
 <h2>⚙️Front End Developer, Cybersecurity Associate, Graphic Designer</h2>
 
 
