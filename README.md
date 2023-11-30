@@ -15,6 +15,9 @@
   Keen eye for detail specially in doing UI.
 </p>
 
+<h5>IT CERTIFICATIONS</h5>
+<p>ISC2 - Certified in Cybersecurity (CC)</p>
+https://www.credly.com/badges/73c1a7f8-3907-4c7a-b47e-19be4e4318aa/linked_in_profile
 
 <p align="left">
   <h5>WHAT I KNOW ?</h5>
