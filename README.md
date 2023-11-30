@@ -33,9 +33,7 @@
 
 <p>
 <h3>Javascript Projects ( HTML, CSS, Vanilla JS )</h3>  
-    <p> • Rock Paper Scissor Game<br>
-        &nbsp; &nbsp; &nbsp; &#9702; <a href="https://github.com/therenze/Javascript--Rock-Paper-Scissor-Game.git" target="_blank">Javascript -- Rock Paper Scissor Game</a>
-    </p>
+    <a href="https://github.com/therenze/Javascript--Rock-Paper-Scissor-Game.git" target="_blank">• Rock Paper Scissor Game</a>
 <h3>React Projects</h3> 
 <h3>Python Projects</h3> 
 
