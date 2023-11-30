@@ -33,8 +33,9 @@
 
 <p>
 <h3>Javascript Projects ( HTML, CSS, Vanilla JS )</h3>  
-    <a href="https://github.com/therenze/Javascript--Rock-Paper-Scissor-Game.git" target="_blank">• Rock Paper Scissor Game</a>
-     <a href="https://github.com/therenze/Javascript----Image-Search.git" target="_blank">• Image Search using Unsplash API</a>
+    <a href="https://github.com/therenze/Javascript--Rock-Paper-Scissor-Game.git" target="_blank">• Rock Paper Scissor Game</a> 
+    <br>
+    <a href="https://github.com/therenze/Javascript----Image-Search.git" target="_blank">• Image Search using Unsplash API</a>
    
 <h3>React Projects</h3> 
 <h3>Python Projects</h3> 
