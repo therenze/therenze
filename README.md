@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&random=false&width=805&height=65&lines=I'm+THERENZE+STEPHEN+AMANTE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&random=false&width=805&height=65&lines=HI,+WANT+TO+HIRE+ME?" alt="Typing SVG" />
 </a>
 
 <hr>
