@@ -9,10 +9,7 @@
 
 <h4>WHO AM I ?</h4>
 <p>
-  I'm from the Philippines.<br>
-  Dedicated, Self-Motivated, Team Player. <br> 
-  Eager and willing to learn everyday.<br>
-  Keen eye for detail specially in doing UI.
+INFORMATION TECHNOLOGY PROFESSIONAL
 </p>
 
 <h4>IT CERTIFICATIONS</h4>
