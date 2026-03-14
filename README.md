@@ -4,7 +4,7 @@
 
 <hr>
 <h4>WHAT I AM ?</h4>
-<h2>⚙️Software Engineer ⚙️ GIS Developer / Specialist ⚙️ Graphic Designer ⚙️ Cybersecurity Associate </h2>
+<h2>⚙️SOFTWARE ENGINEER ⚙️ GIS DEVELOPER / SPECIALIST ⚙️ GRAPHIC DESIGNER ⚙️ CYBERSECURITY ASSOCIATE </h2>
 
 
 <h4>WHO AM I ?</h4>
