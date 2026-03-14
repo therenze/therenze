@@ -28,7 +28,7 @@
   </a>
 </p>
 
-<hr><br>
+<!-- <hr><br>
 <h2>PROJECTS I WORKED ON</h2>
 
 <p>
@@ -38,5 +38,5 @@
     <a href="https://github.com/therenze/Javascript----Image-Search.git" target="_blank">• Image Search using Unsplash API</a>
    
 <h3>React Projects</h3> 
-<h3>Python Projects</h3> 
+<h3>Python Projects</h3>  -->
 
