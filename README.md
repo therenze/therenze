@@ -12,16 +12,11 @@
 INFORMATION TECHNOLOGY PROFESSIONAL
 </p>
 
-<h4>IT CERTIFICATIONS</h4>
-<p>
-    <a href="https://www.credly.com/badges/73c1a7f8-3907-4c7a-b47e-19be4e4318aa/linked_in_profile" target="_blank">ISC2 - Certified in Cybersecurity (CC)</a>
-</p>
-
 
 <p align="left">
   <h4>WHAT I KNOW ?</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,python,git,photoshop,illustrator"/>
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,python,django,postgres,git,photoshop,illustrator"/>
   </a>
 </p>
 
